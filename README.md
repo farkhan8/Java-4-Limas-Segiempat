@@ -1,4 +1,4 @@
-# Java Mobile App Template (Android)
+# Java Mobile App Template (Android) Farkhan Muzaki
 
 This is a minimal Android mobile app template using Java and Gradle.
 
